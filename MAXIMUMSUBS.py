@@ -1,6 +1,6 @@
 T=int(input())
 for i in range(T):
-#Variable Declaration part
+\
     minutes=float(input())
     totalTimeInSeconds = minutes*60
     submissionInSeconds = 30
